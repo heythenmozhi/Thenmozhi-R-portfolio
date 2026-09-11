@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+🌐 Thenmozhi R - Portfolio
+👩‍💻 About Me
+Hello! I'm Thenmozhi R, a B.Tech Information Technology student passionate about software development, web technologies, and artificial intelligence. I enjoy building real-world applications and continuously learning modern technologies.
 
-# Run and deploy your AI Studio app
+🎯 Career Objective
+Seeking internship opportunities to apply my technical skills, gain real-world experience, and contribute to impactful software projects.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/c69f1d2a-3a98-4eb9-988d-c3e9c582f030
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+📫 Contact Me
+📧 Email: thenmozhiraja22@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/thenmozhi-r-935422338/
+💻 GitHub: https://github.com/heythenmozhi
+⭐ Thank you for visiting my portfolio!
